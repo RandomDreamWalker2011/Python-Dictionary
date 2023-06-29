@@ -1,3 +1,6 @@
+"""
+    Using Dunder method @classmethod
+"""
 class MyClass:
     @classmethod 
     def my_class_method(cls, input_1, input_2): 
